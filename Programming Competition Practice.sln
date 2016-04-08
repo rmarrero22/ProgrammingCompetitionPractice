@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - Magic Numbers", "Programming Competition Practice\Problem 1 - Magic Numbers.csproj", "{B5819EFC-975A-4E61-AFD0-F7FFBB3C1A9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 - Divisors", "Problem 2 - Divisors\Problem 2 - Divisors.csproj", "{FD3E59D5-58F1-4872-A81C-9CF496F4A851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 - Emirp", "Problem 3 - Emirp\Problem 3 - Emirp.csproj", "{C517FFD3-4879-4761-ACBA-0EAB10B6BA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5819EFC-975A-4E61-AFD0-F7FFBB3C1A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5819EFC-975A-4E61-AFD0-F7FFBB3C1A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5819EFC-975A-4E61-AFD0-F7FFBB3C1A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5819EFC-975A-4E61-AFD0-F7FFBB3C1A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD3E59D5-58F1-4872-A81C-9CF496F4A851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3E59D5-58F1-4872-A81C-9CF496F4A851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3E59D5-58F1-4872-A81C-9CF496F4A851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3E59D5-58F1-4872-A81C-9CF496F4A851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C517FFD3-4879-4761-ACBA-0EAB10B6BA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C517FFD3-4879-4761-ACBA-0EAB10B6BA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C517FFD3-4879-4761-ACBA-0EAB10B6BA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C517FFD3-4879-4761-ACBA-0EAB10B6BA90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
